@@ -67,7 +67,7 @@
 ## 📊 GitHub Stats:
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=upadrin&show_icons=false&title_color=5900ff&text_color=ab20fb&bg_color=0d0d12&hide_border=true&locale=en&layout=donut"/>     
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=upadrin&rank_icon=github=&include_all_commits=true&show_icons=true&icon_color=FFFFFF&title_color=5900ff&text_color=ab20fd&bg_color=0d0d12&hide_border=true&locale=en"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=upadrin&rank_icon=github&include_all_commits=true&show_icons=true&icon_color=FFFFFF&title_color=5900ff&text_color=ab20fd&bg_color=0d0d12&hide_border=true&locale=en"/>
 </div>
 
 ###
