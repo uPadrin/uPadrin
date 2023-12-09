@@ -20,7 +20,7 @@
         <picture>
       <div>
     </td>
-    <td style="border: 0" width="500px">
+    <td style="border: 0" width="450px">
       <h3>Facts about the person behind the codes:</h3>
       <ul>
         <li>
