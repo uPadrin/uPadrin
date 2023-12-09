@@ -1,5 +1,6 @@
 ![Start](https://github.com/uPadrin/uPadrin/blob/main/Cab.png)
 
+
 ###
 
 <div align="center">
@@ -8,14 +9,47 @@
 
 ##
 
-### About me
+💻 I'm currently learning Java, Spring and SQL on **[Generation Brazil](https://brazil.generation.org/)** bootcamp
 
-* 📕 I’m currently study on **[Generation Brazil](https://brazil.generation.org/)** bootcamp.
-
-#### Contact me
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/bryan-vieira/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:bryan.vieira2013@gmail.com)
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <div>
+        <picture>
+          <img src="https://github.com/uPadrin/repodeimg/blob/main/Gengar.gif">
+        <picture>
+      <div>
+    </td>
+    <td style="border: 0" width="500px">
+      <h3>Facts about the person behind the codes:</h3>
+      <ul>
+        <li>
+          🖥 I'm a developer in training
+        </li>
+        <li>
+          🌎 21 year old Brazilian from São Paulo.
+        </li>
+        <li>
+          💜 But I'm also a game and audiovisual lover.
+        </li>
+        <li>
+          ☕ I am moved by music and passion.
+        </li>
+        </ul>
+      <h3>Contact me:</h3>
+       <ul>
+        <div align="space-between">
+        <a href=https://www.linkedin.com/in/bryan-vieira/ text-decoration="none">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+        </a>
+          <br>
+          <a href=mailto:bryan.vieira2013@gmail.com text-decoration="none">
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email" />
+          </a>
+          </ul>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">💻 Tech Stack:</h2>
 
