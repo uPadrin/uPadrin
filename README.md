@@ -30,10 +30,7 @@
           🌎 21 year old Brazilian from São Paulo.
         </li>
         <li>
-          💜 But I'm also a game and audiovisual lover.
-        </li>
-        <li>
-          ☕ I am moved by music and passion.
+          💜 I'm also a game and audiovisual lover.
         </li>
         </ul>
       <h3>Contact me:</h3>
