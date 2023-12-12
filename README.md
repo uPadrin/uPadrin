@@ -36,7 +36,7 @@
       <h3>Contact me:</h3>
        <ul>
         <div align="space-between">
-        <a href=https://www.linkedin.com/in/bryan-vieira/ text-decoration="none">
+        <a href="https://www.linkedin.com/in/bryan-vieira/" target="_blank" rel="noopener noreferrer" text-decoration="none">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
         </a>
           <br>
