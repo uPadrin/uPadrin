@@ -16,7 +16,7 @@
     <td style="border: 0";>
       <div>
         <picture>
-          <img src="https://github.com/uPadrin/repodeimg/blob/main/Gengar.gif">
+          <img src="https://github.com/uPadrin/uPadrin/blob/main/Gengar.gif">
         <picture>
       <div>
     </td>
