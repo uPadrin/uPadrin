@@ -37,11 +37,11 @@
        <ul>
         <div align="space-between">
         <a href="https://www.linkedin.com/in/bryan-vieira/" target="_blank" rel="noopener noreferrer" text-decoration="none">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&color=5900ff&logoColor=white"/>
         </a>
           <br>
           <a href=mailto:bryan.vieira2013@gmail.com text-decoration="none">
-        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email" />
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=5900ff&link=mailto:seu_email" />
           </a>
           </ul>
     </td>
