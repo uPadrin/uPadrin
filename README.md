@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&color=5900ff&logoColor=white"/>
         </a>
           <br>
-          <a href=mailto:bryan.vieira2013@gmail.com text-decoration="none">
+          <a href=mailto:bryan.vieira2013@gmail.com text-decoration="none" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=ab20fb&link=mailto:seu_email" />
           </a>
           </ul>
